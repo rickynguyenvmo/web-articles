@@ -1,0 +1,6 @@
+export { CloseCircleIcon } from './close-circle'
+export { EditIcon } from './edit'
+export { Logo } from './logo'
+export { NoArticleIcon } from './no-article'
+export { SpinIcon } from './spin'
+export { TrashIcon } from './trash'
